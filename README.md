@@ -64,6 +64,7 @@ I'm a **Computer Science undergraduate** at Noida Institute of Engineering Techn
 | **CareerPilot** | AI-powered career platform with mock interviews, adaptive quizzes, and RAG-based semantic search across 20+ backend modules | Java, Spring Boot, React.js, PostgreSQL, Redis | [GitHub](https://github.com/iamviveksingh/-CareerPilot) |
 | **NBA Advanced Analytics** | Enterprise-grade analytics dashboard with K-Means clustering, radar charts, and advanced efficiency metrics (TS%, eFG%) | R, Shiny, Plotly, Machine Learning | [Live Demo](https://iamviveksingh.shinyapps.io/NBA-Advanced-Analytics/) · [GitHub](https://github.com/iamviveksingh/NBA-Advanced-Analytics) |
 | **Automated Resume Screening** | NLP-based resume parsing and candidate ranking system reducing manual screening effort by 50% | Python, NLP, Scikit-learn | [GitHub](https://github.com/iamviveksingh/Automated-Resume-Screening) |
+| **Tax Calculation System** | Automated income tax calculator based on Indian tax laws for salaried and self-employed individuals | JavaScript | [GitHub](https://github.com/iamviveksingh/Tax-Calculation-System) |
 | **Bazario** | Multivendor e-commerce platform with 3 user roles, product catalog, and order management | PHP, MySQL, Bootstrap, JS | [GitHub](https://github.com/iamviveksingh/Ecommerce-Multivendor) |
 
 ---
