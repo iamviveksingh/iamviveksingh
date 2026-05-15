@@ -71,12 +71,12 @@ I'm a **Computer Science undergraduate** at Noida Institute of Engineering Techn
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamviveksingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ED&icon_color=3382ED&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamviveksingh&theme=tokyonight&hide_border=true&background=0D1117&ring=3382ED&fire=3382ED&currStreakLabel=3382ED" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamviveksingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ED&icon_color=3382ED&text_color=C9D1D9" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=iamviveksingh&theme=tokyonight&hide_border=true&background=0D1117&ring=3382ED&fire=3382ED&currStreakLabel=3382ED" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamviveksingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ED&text_color=C9D1D9" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamviveksingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3382ED&text_color=C9D1D9" width="40%" />
 </p>
 
 ---
